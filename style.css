@@ -1,0 +1,26 @@
+.container {
+   display: flex;
+}
+.glava { 
+    margin-left: 10%;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 80%;
+}
+.All { 
+    border-radius: 50px;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.box{
+    margin-left: 4%;
+}
+
+.Chat {
+    background-image:  url("chatfon.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
